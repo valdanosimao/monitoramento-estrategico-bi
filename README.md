@@ -110,23 +110,51 @@ O projeto foi estruturado em três módulos principais:
 ### 📌 Indicadores
 ![Indicadores](images/indicadores.png)
 
-Atividades dos Indicadores
-![Atividades](images/ficha_indicadores.png)
+### 📋 Indicadores – Atividades
+![Atividades Indicadores](images/ficha_indicadores.png)
 
 ### 🚀 Iniciativas
 ![Iniciativas](images/iniciativas.png)
 
-Atividades das Iniciativas
-![Atividades](images/ficha_iniciativas.png)
+### 📋 Iniciativas – Atividades
+![Atividades Iniciativas](images/ficha_iniciativas.png)
 
 ### 📁 Projetos
 ![Projetos](images/projetos.png)
 
-Atividades dos Projetos
-![Atividades](images/ficha_projetos.png)
+### 📋 Projetos – Atividades
+![Atividades Projetos](images/ficha_projetos.png)
 
-Custo Financeiro dos Projetos
+### 💰 Projetos – Financeiro
 ![Financeiro](images/ficha_financeira.png)
+
+---
+
+## 🧩 Modelagem de Dados
+
+O modelo foi estruturado seguindo boas práticas de BI, com separação entre tabelas fato e dimensões, permitindo melhor desempenho e escalabilidade.
+
+### 📊 Tabelas Fato
+- Fato Indicadores  
+- Fato Iniciativas  
+- Fato Projetos  
+
+### 📁 Tabelas Dimensão
+- Dim Área  
+- Dim Tempo  
+- Dim Status  
+
+### 🔗 Relacionamentos
+- Relacionamento baseado em chaves entre fatos e dimensões  
+- Uso de modelo em estrela (Star Schema)  
+- Suporte a análises temporais e por área  
+
+O modelo foi projetado para garantir consistência nos cálculos e flexibilidade na análise dos dados.
+
+### 📌 Destaques Técnicos
+- Uso de modelo estrela (Star Schema)  
+- Tabela calendário para análise temporal  
+- Estrutura otimizada para medidas DAX  
 
 ---
 
