@@ -117,8 +117,8 @@ O projeto foi estruturado em três módulos principais:
 
 ### 📁 Projetos
 ![Projetos](images/projetos.png)
-![Atividades](images/ficha_projeto)
-![Financeiro](images/ficha_financeiras)
+![Atividades](images/ficha_projetos)
+![Financeiro](images/ficha_financeira)
 
 ---
 
