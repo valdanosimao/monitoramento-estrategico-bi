@@ -178,6 +178,6 @@ Projeto voltado para gestão estratégica, consolidando indicadores, iniciativas
 
 ## 📥 Download do Projeto
 
-O arquivo Power BI (.pbix) pode ser disponibilizado via GitHub Releases.
+[Baixar o arquivo PBIX](https://github.com/valdanosimao/monitoramento-estrategico-bi/releases/download/v1.0/PLANEJAMENTO.ESTRATEGICO.pbix)
 
 ---
