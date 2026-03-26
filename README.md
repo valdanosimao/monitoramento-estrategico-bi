@@ -109,15 +109,23 @@ O projeto foi estruturado em três módulos principais:
 
 ### 📌 Indicadores
 ![Indicadores](images/indicadores.png)
+
+Atividades dos Indicadores
 ![Atividades](images/ficha_indicadores.png)
 
 ### 🚀 Iniciativas
 ![Iniciativas](images/iniciativas.png)
+
+Atividades das Iniciativas
 ![Atividades](images/ficha_iniciativas.png)
 
 ### 📁 Projetos
 ![Projetos](images/projetos.png)
+
+Atividades dos Projetos
 ![Atividades](images/ficha_projetos.png)
+
+Custo Financeiro dos Projetos
 ![Financeiro](images/ficha_financeira.png)
 
 ---
